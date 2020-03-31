@@ -1,0 +1,36 @@
+body{
+    /* font-family: sans-serif; */
+   
+}
+
+table{
+    min-width: 400px;
+}
+
+
+#content{
+    width: 70%;
+    margin: auto;
+    margin-top: 5px;
+}
+
+table, tr, th, td{
+    
+    border: 1px lightslategrey solid;
+}
+
+
+
+div{
+    margin: auto;
+    width: fit-content;
+}
+
+td{
+    padding: 6px;
+}
+
+h1{
+    text-align: center;
+    color: grey;
+}
